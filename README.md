@@ -1,4 +1,4 @@
-# 本系统用到的信息如下
+# 用到的R包信息如下
 R version 4.4.2 (2024-10-31 ucrt)
 Platform: x86_64-w64-mingw32/x64
 Running under: Windows 11 x64 (build 26200)
